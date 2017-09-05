@@ -6,11 +6,12 @@ highlighter:      rouge
 title               : AKai's Blog
 tagline             : 'Data analysis articles'
 description         : 'Sword, blood and egg.'
-baseurl             : /
+url                 : https://atoto9.github.io/
+baseurl             : # 
 
 author              : JK Lin
 name                : 'JK Lin'
-url                 : https://atoto9.github.io/
+
 
 paginate            : 5
 
@@ -22,5 +23,6 @@ plugins:
 # Custom vars
 version             : 0.1.0
 github_username     : atoto9
+sidebar_home_link:  true
 
 
