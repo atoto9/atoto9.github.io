@@ -22,7 +22,8 @@ plugins:
 
 # Custom vars
 version             : 0.1.0
-github_username     : atoto9
+github:
+  repo:             https://github.com/atoto9/atoto9.github.io
 sidebar_home_link:  true
 
 
